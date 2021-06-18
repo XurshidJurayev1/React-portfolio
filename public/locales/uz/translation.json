@@ -1,0 +1,23 @@
+{
+    "form" : {
+        "h3": "Vazifalar",
+        "name" : "Ismingiz",
+        "surname" : "Familiyangiz",
+        "btn": "qo'shish"
+    },
+    "about" :{
+        "ab1": "haqida 1",
+        "ab2": "haqida 2"
+    },
+    "map": [
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"},
+        {"a": "as"}
+    ]
+}

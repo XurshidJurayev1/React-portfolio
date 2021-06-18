@@ -1,0 +1,23 @@
+{
+    "form" : {
+        "h3": "Tasks",
+        "name" : "Your Name",
+        "surname" : "Your Surname",
+        "btn": "add"
+    },
+    "about" :{
+        "ab1": "about 1",
+        "ab2": "about 2"
+    },
+    "map": {
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as",
+        "a": "as"
+    }
+}
